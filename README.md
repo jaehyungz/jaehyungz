@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Jaehyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyungz&show_icons=true&theme=radical)
+![Jaehyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyungz&show_icons=true&theme=onedark)
 
 
 <a href="https://github.com/devxb/gitanimals">
